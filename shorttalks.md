@@ -19,4 +19,5 @@
 * Crowdsourcing software development
 * bountysource.org
 * utopian.io
+* Career in Open Source - The many pathways
 
