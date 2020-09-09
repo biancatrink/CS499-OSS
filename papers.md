@@ -46,6 +46,7 @@ Here is a initial/live list
 
 * Alami, Adam, Marisa Leavitt Cohn, and Andrzej Wąsowski. "Why does code review work for open source software communities?." 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE). IEEE, 2019.https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812037&casa_token=2VdW3vycv2EAAAAA:AxbcJjso8VqhXhpmJzKFFJOvLycmtK7a_XCyerzSdBC_X7aPkERrXbE3O0XcFbZajiZxRuqbUB0
 
+* Temizkan, O., & Kumar, R. L. (2015). "Exploitation and exploration networks in open source software development: An artifact-level analysis." Journal of Management Information Systems, 32(1), 116-150. https://www.tandfonline.com/doi/abs/10.1080/07421222.2015.1029382
 
 
 
